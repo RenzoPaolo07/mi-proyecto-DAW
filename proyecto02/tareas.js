@@ -5,3 +5,5 @@ console.log("Agregar tarea 3");
 console.log("Agregar tarea 4");
 console.log("Agregar tarea 5");
 console.log("Agregar tarea 6");
+console.log("Agregar tarea 7");
+console.log("Agregar tarea 8");
